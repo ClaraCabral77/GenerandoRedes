@@ -494,3 +494,8 @@ h6,
 #logoG{
     width: 120px;
 }
+.section-top-border {
+    padding: 70px 0;
+    border-top: 1px dotted #eee;
+}
+
